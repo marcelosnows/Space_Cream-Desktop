@@ -32,7 +32,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 # 💻 Projeto
 
-A ideia agora é criar o Space Cream na versão Desktop!
+
+A ideia agora é criar a versão do Space Cream para Desktop utilizando como base a versão Mobile e atribuíndo novas funcionalidades
 
 * Mobile First - base desafio anterior;
 * Unidades de medida flexíveis;
